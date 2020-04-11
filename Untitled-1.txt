@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>indian electricity website</title>
+<link rel="stylesheet"href="el.css">
+
+</head>
+<body>
+
+<div ><center><table width="100%"padding-bottom="30px"padding-left="10px"><style>
+table,th,td{border:1px ;border-collapse:collapse;}</style>
+<tr><th><a href="https://powermin.nic.in/"><B>HOME</B></a></th>
+<th><a href="https://powermin.nic.in/en/content/responsibilities"><B>ABOUT</B></a>  </th>
+<th><a href="https://powermin.nic.in/en/content/office-minister-state-ind-charge"><B>CONTACT US</B></a>  </th>
+</TABLE></center></div>
+<hr>
+
+<center><img src="p5.jfif"></center>
+<img src="pic6.png"width="1500px">
+
+<h1><center><b>LOGIN</b></center></h1>
+<form>
+<fieldset>
+<legend>user information:</legend>
+first name:<input type="text" name="firstname"/><br>
+<br>
+last name:<input type="text" name="lastname"/><br>
+<br>
+enter your address:<br>
+<textarea rows="2"cols="40"></textarea><br>
+<br>
+<label for="password">password:</label>
+<input type="password"id="password"name="password"/><br>
+<br>
+<br>
+<input type="submit" values="submit">
+<input type="reset" values="reset">
+</fieldset>
+</form>
+
+
+<table border="1" width="100%">  
+<tr><th><img src="p7.jfif"width="400px"height="300px"></th>
+<th><CENTER><b>SAVE ELECTRICITY</B></center>
+Turn off unnecessary lights. ...<br>
+Use natural light. ...<br>
+Use task lighting. ...<br>
+Take shorter showers. ...<br>
+Turn water off when shaving, washing hands, brushing teeth. ...<br>
+Fix that leaky faucet. ...<br>
+Unplug unused electronics. ...
+Ditch the desktop computer.</th>
+<th><img src="p8.png"width="400px"height="300px"></th></tr>
+</table>
+<hr>
+<table width="100%">  <tr><th><center><b>QUICK LINKS</b></center>
+<a href="https://www.mythinkenergy.com/faqs">What is electricity deregulation?</a><br>
+<a href="https://www.mythinkenergy.com/faqs">Why should I switch to Think Energy?</a><br>
+<a href="https://www.mythinkenergy.com/faqs">What is the difference between Think Energy and my Local Utility?</a><br>
+<a href="https://www.mythinkenergy.com/faqs">How can I calculate my bill?</a><br>
+<a href="https://www.mythinkenergy.com/faqs">Does Think Energy waive deposits?   more........</a></th><br>
+
+<th><center><b>FAQs</b></center><a href="https://www.mythinkenergy.com/faqs">facts on electrification.</a><br>
+<a href="https://powermin.nic.in/en/content/facts-electrification-nagla-fatela-village-hathras-district-uttar-pradesh">Policies and publications.</a><br>
+<a href="https://powermin.nic.in/en/content/finance-and-accounts">Finance and accounts.</a><br>
+<a href="https://powermin.nic.in/en/content/indian-electricity-scenario">Indian elctricity scenario.</a><br>
+<a href="https://powermin.nic.in/en/content/indian-electricity-scenario">  more........</a></th><br>
+</tr>
+</table>
+<hr>
+
+<h2><center>Top Consuming 10 Cities </center></h2>
+<center><img src="p10.png"></center>
+<br>
+<hr>
+</body>
+</html>
